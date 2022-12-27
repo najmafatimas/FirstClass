@@ -1,0 +1,4 @@
+Pushing files from Local Repository to remote repository
+$git add -A
+$git commit
+$git push
