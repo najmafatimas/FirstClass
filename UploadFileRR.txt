@@ -1,2 +1,2 @@
 If we want to upload a file from our system to Remote Repository
-then go to upload file,browse the file and click commit
+then go to upload file,browse the file and click commit changes
